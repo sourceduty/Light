@@ -10,7 +10,6 @@ Electric light devices have revolutionized the way we live by providing artifici
 In addition to traditional electric lights, there have been numerous other inventions related to light science that have had significant impacts on various industries and applications. For example, lasers (which stands for "light amplification by stimulated emission of radiation") were first demonstrated in 1960 and have since found uses in telecommunications, barcode scanners, laser printers, optical storage devices like CDs and DVDs, medical procedures such as LASIK eye surgery, industrial cutting and welding processes, scientific research instruments, military applications including targeting systems and missile guidance, entertainment technologies like holographic displays and virtual reality headsets. Other notable inventions include fiber optic cables which enable high-speed data transmission over long distances by using pulses of light to carry information through thin glass fibers; liquid crystal display (LCD) screens found in televisions, computer monitors, smartphones and other electronic devices that use polarized light passing through a layer of electrically controlled liquid crystals to create images on the screen.
 
 #
-### Devices
 
 | Light Device Type    | Energy Complexity | Conversion Difficulty | Usability Difficulty | Easiest Convertible Format    |
 |----------------------|-------------------|------------------------|-----------------------|--------------------------------|
