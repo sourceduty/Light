@@ -34,7 +34,7 @@ Light experiments have historically led to transformative innovations, and their
 <br>
 [Energy](https://github.com/sourceduty/Energy)
 <br>
-[Theomotronics](https://github.com/sourceduty/Thermotronics)
+[Thermotronics](https://github.com/sourceduty/Thermotronics)
 <br>
 [Tesla Coil](https://github.com/sourceduty/Tesla_Coil)
 
