@@ -28,6 +28,23 @@ In addition to traditional electric lights, there have been numerous other inven
 | Plasma Lamp          | High              | High                   | High                  | Electricity                   |
 | Thermonuclear Bulb   | High              | High                   | High                  | Nuclear                       |
 
+| Light Device Type        | Hot/Cold Light | Wet/Dry Compatible | Old/New Technology |
+|--------------------------|----------------|---------------------|---------------------|
+| LED Lightbulb            | Cold           | Dry                 | New                 |
+| Incandescent Bulb        | Hot            | Dry                 | Old                 |
+| Halogen Bulb             | Hot            | Dry                 | Old                 |
+| Fluorescent Tube         | Cold           | Dry                 | Old                 |
+| CFL (Compact Fluorescent Light) | Cold   | Dry                 | New                 |
+| Smart Bulb               | Cold           | Dry                 | New                 |
+| Neon Light               | Cold           | Dry                 | Old                 |
+| HID Lamp (High-Intensity Discharge) | Hot | Dry                 | Old                 |
+| Arc Lamp                 | Hot            | Dry                 | Old                 |
+| Laser Light              | Cold           | Dry                 | New                 |
+| OLED Panel               | Cold           | Dry                 | New                 |
+| Plasma Lamp              | Hot            | Dry                 | Old                 |
+| Submersible LED          | Cold           | Wet                 | New                 |
+| Fiber Optic Light        | Cold           | Wet/Dry             | New                 |
+
 #
 ### Innovations
 
