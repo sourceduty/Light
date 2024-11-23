@@ -119,6 +119,8 @@ Light experiments have historically led to transformative innovations, and their
 [Thermotronics](https://github.com/sourceduty/Thermotronics)
 <br>
 [Tesla Coil](https://github.com/sourceduty/Tesla_Coil)
+<br>
+[Aquafriction](https://github.com/sourceduty/Aquafriction)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
