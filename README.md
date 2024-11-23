@@ -27,7 +27,8 @@ In addition to traditional electric lights, there have been numerous other inven
 | OLED Panel           | Medium            | Moderate               | Moderate              | Electricity                   |
 | Plasma Lamp          | High              | High                   | High                  | Electricity                   |
 
-| COnceptual Light Device Type    | Energy Complexity | Conversion Difficulty | Usability Difficulty | Easiest Convertible Format    |
+| Conceptual Light Device Type    | Energy Complexity | Conversion Difficulty | Usability Difficulty | Easiest Convertible Format    |
+|----------------------|-------------------|------------------------|-----------------------|--------------------------------|
 | Thermonuclear Bulb   | Unknown              | Unknown                   | Unknown                | Nuclear                       |
 | Aquafriction Light   | Unknown              | Unknown                   | Unknown                | Kinetic               |
 
